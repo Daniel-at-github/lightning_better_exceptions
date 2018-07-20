@@ -1,5 +1,5 @@
-# lightning_2018-07-19
+# lightning_better_exceptions
 
-This is a lightning talk  given in [Python Vigo](https://www.python-vigo.es/posts/reunion-del-grupo-el-19072018/) user group, about [better_exceptions](https://github.com/qix-/better-exceptions) module.
+This is a lightning talk planned for [Python Vigo](https://www.python-vigo.es/) user group, about [better_exceptions](https://github.com/qix-/better-exceptions) module.
 
-[Slides](https://daniel-at-github.github.io/lightning_2018-07-19/)
+[Slides](https://daniel-at-github.github.io/lightning_better_exceptions/)
